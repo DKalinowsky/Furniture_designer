@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\bin\Debug\netcoreapp3.1\FabrykAbstrakcyjna.exe
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\bin\Debug\netcoreapp3.1\FabrykAbstrakcyjna.deps.json
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\bin\Debug\netcoreapp3.1\FabrykAbstrakcyjna.runtimeconfig.json
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\bin\Debug\netcoreapp3.1\FabrykAbstrakcyjna.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\bin\Debug\netcoreapp3.1\FabrykAbstrakcyjna.dll
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\bin\Debug\netcoreapp3.1\FabrykAbstrakcyjna.pdb
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\obj\Debug\netcoreapp3.1\FabrykAbstrakcyjna.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\obj\Debug\netcoreapp3.1\FabrykAbstrakcyjna.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\obj\Debug\netcoreapp3.1\FabrykAbstrakcyjna.AssemblyInfo.cs
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\obj\Debug\netcoreapp3.1\FabrykAbstrakcyjna.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\obj\Debug\netcoreapp3.1\FabrykAbstrakcyjna.dll
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\obj\Debug\netcoreapp3.1\FabrykAbstrakcyjna.pdb
+C:\Users\dkali\source\repos\FabrykAbstrakcyjna\obj\Debug\netcoreapp3.1\FabrykAbstrakcyjna.genruntimeconfig.cache
